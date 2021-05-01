@@ -21,6 +21,7 @@ function Login() {
 
   return (
     <div>
+      <h4 style={{ color: '#210373' }}> Authentication with firebase </h4>
       {user ? (
         <button
           style={{
