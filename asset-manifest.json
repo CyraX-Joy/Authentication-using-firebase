@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/Authentication-using-firebase/static/css/main.9d5b29c0.chunk.css",
-    "main.js": "/Authentication-using-firebase/static/js/main.631032b8.chunk.js",
-    "main.js.map": "/Authentication-using-firebase/static/js/main.631032b8.chunk.js.map",
-    "runtime-main.js": "/Authentication-using-firebase/static/js/runtime-main.a7e3988d.js",
-    "runtime-main.js.map": "/Authentication-using-firebase/static/js/runtime-main.a7e3988d.js.map",
-    "static/js/2.4f1531fb.chunk.js": "/Authentication-using-firebase/static/js/2.4f1531fb.chunk.js",
-    "static/js/2.4f1531fb.chunk.js.map": "/Authentication-using-firebase/static/js/2.4f1531fb.chunk.js.map",
-    "static/js/3.fe2172d7.chunk.js": "/Authentication-using-firebase/static/js/3.fe2172d7.chunk.js",
-    "static/js/3.fe2172d7.chunk.js.map": "/Authentication-using-firebase/static/js/3.fe2172d7.chunk.js.map",
+    "main.css": "/Authentication-using-firebase/static/css/main.39210058.chunk.css",
+    "main.js": "/Authentication-using-firebase/static/js/main.03ee0810.chunk.js",
+    "main.js.map": "/Authentication-using-firebase/static/js/main.03ee0810.chunk.js.map",
+    "runtime-main.js": "/Authentication-using-firebase/static/js/runtime-main.3f7690e3.js",
+    "runtime-main.js.map": "/Authentication-using-firebase/static/js/runtime-main.3f7690e3.js.map",
+    "static/js/2.3b240d14.chunk.js": "/Authentication-using-firebase/static/js/2.3b240d14.chunk.js",
+    "static/js/2.3b240d14.chunk.js.map": "/Authentication-using-firebase/static/js/2.3b240d14.chunk.js.map",
+    "static/js/3.553e7ce3.chunk.js": "/Authentication-using-firebase/static/js/3.553e7ce3.chunk.js",
+    "static/js/3.553e7ce3.chunk.js.map": "/Authentication-using-firebase/static/js/3.553e7ce3.chunk.js.map",
     "index.html": "/Authentication-using-firebase/index.html",
-    "static/css/main.9d5b29c0.chunk.css.map": "/Authentication-using-firebase/static/css/main.9d5b29c0.chunk.css.map",
-    "static/js/2.4f1531fb.chunk.js.LICENSE.txt": "/Authentication-using-firebase/static/js/2.4f1531fb.chunk.js.LICENSE.txt"
+    "static/css/main.39210058.chunk.css.map": "/Authentication-using-firebase/static/css/main.39210058.chunk.css.map",
+    "static/js/2.3b240d14.chunk.js.LICENSE.txt": "/Authentication-using-firebase/static/js/2.3b240d14.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.a7e3988d.js",
-    "static/js/2.4f1531fb.chunk.js",
-    "static/css/main.9d5b29c0.chunk.css",
-    "static/js/main.631032b8.chunk.js"
+    "static/js/runtime-main.3f7690e3.js",
+    "static/js/2.3b240d14.chunk.js",
+    "static/css/main.39210058.chunk.css",
+    "static/js/main.03ee0810.chunk.js"
   ]
 }
