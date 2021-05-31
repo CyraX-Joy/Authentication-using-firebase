@@ -1,0 +1,22 @@
+.manage-btn {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: center;
+    width: 100vw;
+    height: 50px;
+}
+.btn {
+    height: 50px;
+    width: 100px;
+    background: white;
+    border: 2px solid black;
+    color: black;
+    font-weight: bold;
+}
+.btn:hover {
+    background: black;
+    border: 2px solid grey;
+    color: white;
+    font-weight: bold;
+}
